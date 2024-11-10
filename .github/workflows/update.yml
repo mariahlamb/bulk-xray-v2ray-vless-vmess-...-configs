@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.email "359045252@qq.com"
           git config --global user.name "mariahalamb"
-          git remote set-url origin https://github.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs.git
+          git remote set-url origin https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs.git
       
       - name: Install dependencies
         run: |
