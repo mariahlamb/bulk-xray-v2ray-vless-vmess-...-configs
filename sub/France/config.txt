@@ -9,8 +9,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.107.107:22222?path=/telegram-
 trojan://telegram-id-directvpn@51.44.134.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.44.145.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://tell--ZEDMODEON@mylisecharmel.com:443?security=tls&encryption=none&type=ws&host=gamefa.com&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=mylisecharmel.com&fp=chrome#All net | telegram:@ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12 @ultrasurf_12
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#%40v2ray313+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86+%F0%9F%98%81
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#%40v2ray313+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86+%F0%9F%98%81
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#%40v2ray313+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86+%F0%9F%98%81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbldMVzNlQThLVGs@217.70.188.60:855#%40Outline_ir+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbldMVzNlQThLVGs@217.70.188.60:855#%40Outline_ir+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
