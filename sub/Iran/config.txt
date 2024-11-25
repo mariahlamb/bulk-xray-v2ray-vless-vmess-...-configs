@@ -6,9 +6,6 @@ vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=%2F&securi
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.155:8000?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&type=ws&sni=vless.ifx.us.kg#%40V2rayNG3
 vless://8ff11428-caa1-4863-94de-2f1e56281c25@79.127.70.88:443?security=none&encryption=none&host=fast.com%20%40Client_Proo&headerType=http&type=tcp#%F0%9F%AB%9051%40ConfigV2RayNGhysteria2://9d765687-536c-4626-a2e2-6a403219e381@awer13asd3.surfcat.store:30103?security=tls&insecure=1&sni=35afq4514.surfcat.store#%E2%9A%B1%EF%B8%8F42%40ConfigV2RayNG
 vless://8ff11428-caa1-4863-94de-2f1e56281c25@79.127.70.88:443?security=none&encryption=none&host=fast.com%20%40Client_Proo&headerType=http&type=tcp#%F0%9F%AB%9051%40ConfigV2RayNGhysteria2://9d765687-536c-4626-a2e2-6a403219e381@awer13asd3.surfcat.store:30103?security=tls&insecure=1&sni=35afq4514.surfcat.store#%E2%9A%B1%EF%B8%8F42%40ConfigV2RayNG
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://d122d14e-c1ba-43cb-95be-3e847649897f@FRN.IPCL0UD.COM:444?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://d122d14e-c1ba-43cb-95be-3e847649897f@FRN.IPCL0UD.COM:444?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://d122d14e-c1ba-43cb-95be-3e847649897f@FRN.IPCL0UD.COM:444?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
