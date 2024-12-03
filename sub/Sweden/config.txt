@@ -29,6 +29,9 @@ trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/vmess_iran
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.87.26:80?path=%2F&security=none&encryption=none&host=amir77.ir&type=ws#%40V2ray_Phoenix
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.87.26:80?path=%2F&security=none&encryption=none&host=amir77.ir&type=ws#%40V2ray_Phoenix
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.87.26:80?path=%2F&security=none&encryption=none&host=amir77.ir&type=ws#%40V2ray_Phoenix
 trojan://telegram-id-privatevpns@13.50.81.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S522%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@16.170.234.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S827%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@13.50.81.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S522%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
