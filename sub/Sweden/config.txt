@@ -31,6 +31,9 @@ trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/vmess_iran
+vless://5258e131-7960-4f71-8e8a-14c41413f1c3@185.146.173.52:443?path=%2Fmelo%3Fed%3D2096&security=tls&alpn=h3&encryption=none&host=chat.black-melo.store&fp=chrome&type=splithttp&sni=chat.black-melo.store#%40NETMelliAnti+%DA%86%D9%86%D9%84
+vless://5258e131-7960-4f71-8e8a-14c41413f1c3@185.146.173.52:443?path=%2Fmelo%3Fed%3D2096&security=tls&alpn=h3&encryption=none&host=chat.black-melo.store&fp=chrome&type=splithttp&sni=chat.black-melo.store#%40NETMelliAnti+%DA%86%D9%86%D9%84
+vless://5258e131-7960-4f71-8e8a-14c41413f1c3@185.146.173.52:443?path=%2Fmelo%3Fed%3D2096&security=tls&alpn=h3&encryption=none&host=chat.black-melo.store&fp=chrome&type=splithttp&sni=chat.black-melo.store#%40NETMelliAnti+%DA%86%D9%86%D9%84
 trojan://telegram-id-privatevpns@13.50.81.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S522%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@16.170.234.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S827%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@13.50.81.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S522%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
