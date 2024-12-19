@@ -19,9 +19,6 @@ trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/vmess_iran
-vless://97404b2d-4e43-4c0a-9618-1a5950c2f28d@172.234.116.15:51397?mode=gun&security=reality&encryption=none&authority=%40zerov2shop&pbk=28uZ75mfydPEN62yeCphBbtfGRRIz6kKLO5jZNRYGGM&fp=chrome&spx=%2F&type=grpc&serviceName=%40zerov2shop&sni=microsoft.com#%40NETMELLIANTI
-vless://97404b2d-4e43-4c0a-9618-1a5950c2f28d@172.234.116.15:51397?mode=gun&security=reality&encryption=none&authority=%40zerov2shop&pbk=28uZ75mfydPEN62yeCphBbtfGRRIz6kKLO5jZNRYGGM&fp=chrome&spx=%2F&type=grpc&serviceName=%40zerov2shop&sni=microsoft.com#%40NETMELLIANTI
-vless://97404b2d-4e43-4c0a-9618-1a5950c2f28d@172.234.116.15:51397?mode=gun&security=reality&encryption=none&authority=%40zerov2shop&pbk=28uZ75mfydPEN62yeCphBbtfGRRIz6kKLO5jZNRYGGM&fp=chrome&spx=%2F&type=grpc&serviceName=%40zerov2shop&sni=microsoft.com#%40NETMELLIANTI
 trojan://telegram-id-privatevpns@13.50.81.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S522%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@16.170.234.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S827%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@13.50.81.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S522%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
