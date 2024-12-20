@@ -65,7 +65,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Turkey](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Turkey/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Kingdom/config.txt) |
 | [Iran](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Iran/config.txt) |
-| [Austria](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Austria/config.txt) |
 | [Singapore](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Singapore/config.txt) |
 | [Germany](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Germany/config.txt) |
 | [France](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/France/config.txt) |
@@ -78,6 +77,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [United Arab Emirates](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Arab%20Emirates/config.txt) |
 | [Costa Rica](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Costa%20Rica/config.txt) |
 | [Netherlands](https://raw.githubusercontent.com/mariahlamb/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Netherlands/config.txt) |
+
 
 
 
