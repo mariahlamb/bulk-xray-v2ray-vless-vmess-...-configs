@@ -3,3 +3,6 @@ vless://917579e9-a583-42ea-a71c-30b39c54d13a@zarin3i1.alireza031.pw:49342?path=%
 vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
 vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=%2F&security=none&encryption=none&type=ws#@V2rayNG3
+vless://18ade712-f788-451f-a999-46797057fcbe@84.47.232.14:2052?security=none&encryption=none&headerType=http&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%87%B9%F0%9F%87%B7
+vless://18ade712-f788-451f-a999-46797057fcbe@84.47.232.14:2052?security=none&encryption=none&headerType=http&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%87%B9%F0%9F%87%B7
+vless://18ade712-f788-451f-a999-46797057fcbe@84.47.232.14:2052?security=none&encryption=none&headerType=http&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%87%B9%F0%9F%87%B7
