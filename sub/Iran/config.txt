@@ -4,9 +4,3 @@ vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&e
 vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=%2F&security=none&encryption=none&type=ws#@V2rayNG3
 vless://9a7f0c6e-cb73-4baf-ad31-ac5f9af851c3@37.152.191.159:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-vless://81ce1bbf-9034-469c-d2ab-a8d6ae33dc43@213.176.7.147:50389?type=ws&path=%2F&security=none#%40Tara_khm-y2qg6i0k3
-vless://6673dc42-2ec6-493e-a9b6-6f996446dce7@m15.x0x1.ru:57475?type=tcp&path=%2F&host=www.varzesh3.com&headerType=http&security=none#x2590.new
-vless://81ce1bbf-9034-469c-d2ab-a8d6ae33dc43@213.176.7.147:50389?type=ws&path=%2F&security=none#%40Tara_khm-y2qg6i0k3
-vless://6673dc42-2ec6-493e-a9b6-6f996446dce7@m15.x0x1.ru:57475?type=tcp&path=%2F&host=www.varzesh3.com&headerType=http&security=none#x2590.new
-vless://81ce1bbf-9034-469c-d2ab-a8d6ae33dc43@213.176.7.147:50389?type=ws&path=%2F&security=none#%40Tara_khm-y2qg6i0k3
-vless://6673dc42-2ec6-493e-a9b6-6f996446dce7@m15.x0x1.ru:57475?type=tcp&path=%2F&host=www.varzesh3.com&headerType=http&security=none#x2590.new
