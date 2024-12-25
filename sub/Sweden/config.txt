@@ -19,6 +19,9 @@ trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/vmess_iran
+vless://14653802-4435-41ef-9210-64e4293f28b9@help.conter2serv.ir:17123?security=&encryption=none&headerType=&fp=chrome&type=tcp#Free4All
+vless://14653802-4435-41ef-9210-64e4293f28b9@help.conter2serv.ir:17123?security=&encryption=none&headerType=&fp=chrome&type=tcp#Free4All
+vless://14653802-4435-41ef-9210-64e4293f28b9@help.conter2serv.ir:17123?security=&encryption=none&headerType=&fp=chrome&type=tcp#Free4All
 trojan://telegram-id-privatevpns@13.50.81.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S522%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@16.170.234.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S827%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@13.50.81.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S522%29%F0%9F%87%B8%F0%9F%87%AAt.me%2FPrivateVPNs
