@@ -33,6 +33,9 @@ trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S460)🇩🇪t.me/vmess_iran
 vless://f4fb97ca-a39d-4791-8935-84f866a9cb43@188.245.68.158:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=6.fidsxss6x.iR&type=ws#%40vip_vpn_2022+%F0%9F%87%A9%F0%9F%87%AA+ws8
+vless://b1182b8b-e53e-4b67-b789-b364182f4a62@ed.piko-network.top:3306?type=tcp&security=none#non-H-7m1qxg67
+vless://b1182b8b-e53e-4b67-b789-b364182f4a62@ed.piko-network.top:3306?type=tcp&security=none#non-H-7m1qxg67
+vless://b1182b8b-e53e-4b67-b789-b364182f4a62@ed.piko-network.top:3306?type=tcp&security=none#non-H-7m1qxg67
 vless://95eb1c7e-8bb7-4f4e-ba7b-a3c88bb99165@91.107.143.28:2082?security=none&encryption=none&seed=t2NJbHh3Ee&headerType=dtls&type=kcp#%40hashmakvpn+%7C+%40sayeproof+%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@3.77.56.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S523%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@18.195.26.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%28S829%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
