@@ -3,6 +3,3 @@ vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2
 vless://f21ef1b5-9501-48bb-8252-09b78b999913@barbari.yusefkhare.sbs:19670?security=none&encryption=none&headerType=none&type=tcp#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://f21ef1b5-9501-48bb-8252-09b78b999913@barbari.yusefkhare.sbs:19670?security=none&encryption=none&headerType=none&type=tcp#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://f21ef1b5-9501-48bb-8252-09b78b999913@barbari.yusefkhare.sbs:19670?security=none&encryption=none&headerType=none&type=tcp#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
-vless://ac0f3e4b-715a-470c-b5c8-6ff8fe43d6b7@135.181.101.223:15231?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
-vless://ac0f3e4b-715a-470c-b5c8-6ff8fe43d6b7@135.181.101.223:15231?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
-vless://ac0f3e4b-715a-470c-b5c8-6ff8fe43d6b7@135.181.101.223:15231?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
